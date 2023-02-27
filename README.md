@@ -1,9 +1,9 @@
 # Fetch Rewards Data Analysis Take Home
 
 ## INFO
-NAME : Monniiesh Velmurugan <br>
-YEAR : Junior <br>
-MAJOR : Computer Science & Data Science <br>
+<b>NAME : <b>Monniiesh Velmurugan <br>
+<b>YEAR : <b>Junior <br>
+<b>MAJOR : <b>Computer Science & Data Science <br>
 
 ## Includes
 1. ER Diagram
