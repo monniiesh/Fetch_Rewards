@@ -1,5 +1,10 @@
 # Fetch Rewards Data Analysis Take Home
 
+## INFO
+NAME : Monniiesh Velmurugan
+YEAR : Junior
+MAJOR : Computer Science & Data Science
+
 ## Includes
 1. ER Diagram
 2. SQL queries
