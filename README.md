@@ -10,7 +10,7 @@
 3. thick lines with a arrow : {1} exactly one relation
 4. thin line with a arrow : (0, 1) atleast one relation
 5. red underline : unique key / primary key
-6. colored boxed on fields : keys which are used to join two tables
+6. colored boxed on fields : keys which are used to join two tables (foreign keys which are color-coded)
 
 ### Note-Worthy Analysis
 
