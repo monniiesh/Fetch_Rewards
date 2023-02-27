@@ -17,6 +17,12 @@ MAJOR : Computer Science & Data Science
 5. red underline : unique key / primary key
 6. colored boxed on fields : keys which are used to join two tables (foreign keys which are color-coded)
 
+### SQL Dialect
+MySQL
+
+### Data Analysis Tool
+Python with Pandas and Matplotlib library
+
 ### Note-Worthy Analysis
 
 The one main issue I noticed when starting to analyze the data is that, not all items in receipt_items 
